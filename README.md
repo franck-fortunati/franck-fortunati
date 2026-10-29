@@ -63,10 +63,11 @@ Curieux et autodidacte, j'aime comprendre comment les technologies fonctionnent,
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=franck-fortunati&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=franck-fortunati&theme=tokyonight&hide_border=false)<br/>
-[![Most used languages](https://github-stats-extended.vercel.app/api/top-langs?username=franck-fortunati&langs_count=4&theme=tokyonight)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=franck-fortunati&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=franck-fortunati\&rank_icon=github\&custom_title=Pascal%20Fortunati\&show_icons=true\&include_all_commits=true\&theme=tokyonight\&locale=fr)
+
+![Langages les plus utilisés](https://github-stats-extended.vercel.app/api/top-langs?username=franck-fortunati\&langs_count=8\&theme=tokyonight\&locale=fr)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=franck-fortunati\&theme=tokyonight\&locale=fr)
 
 
 # 🚀 Ma philosophie
